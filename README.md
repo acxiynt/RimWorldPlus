@@ -11,4 +11,4 @@ as the name suggests
 ## NoStagger
 no more slowdown when a pawn getting hit
 ## BetterDowned
-no more down because the said pawn is a weakling, after reaching pain shock, they wont get downed until their consciousness is under 110% after pain consciousness reduction
+no more down because the said pawn is a weakling but have high consciousness, after reaching pain shock, they wont get downed until their consciousness is under 110% after pain consciousness reduction
