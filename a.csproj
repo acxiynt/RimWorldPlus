@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.IMGUIModule" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="System.Core" />
+    <Reference Include="NAudio" />
+    <Reference Include="NVorbis" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="com.rlabrecque.steamworks.net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Assembly-CSharp-firstpass" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine.AssetBundleModule" />
+    <Reference Include="Unity.Mathematics" />
+    <Reference Include="UnityEngine.UnityWebRequestModule" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="ISharpZipLib" />
+    <Reference Include="Unity.Burst" />
+    <Reference Include="UnityEngine.InputLegacyModule" />
+    <Reference Include="UnityEngine.PerformanceReportingModule" />
+    <Reference Include="UnityEngine.ImageConversionModule" />
+    <Reference Include="UnityEngine.ScreenCaptureModule" />
+    <Reference Include="UnityEngine.UI" />
+  </ItemGroup>
+</Project>
